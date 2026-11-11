@@ -1,3 +1,7 @@
+[![License](https://img.shields.io/crates/l/axum-server-acme)](https://choosealicense.com/licenses/mit/)
+[![Crates.io](https://img.shields.io/crates/v/axum-server-acme)](https://crates.io/crates/axum-server-acme)
+[![Docs](https://img.shields.io/crates/v/axum-server-acme?color=blue&label=docs)](https://docs.rs/axum-server-acme/)
+
 # axum-server-acme
 
 Automatic TLS certificates for [axum-server](https://crates.io/crates/axum-server)
