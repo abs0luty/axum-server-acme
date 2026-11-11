@@ -4,8 +4,8 @@ Automatic TLS certificates for [axum-server](https://crates.io/crates/axum-serve
 through the ACME protocol, built on
 [rustls-acme](https://crates.io/crates/rustls-acme).
 
-This is a companion crate. axum-server intentionally leaves ACME out of its
-core; this crate plugs certificate acquisition and renewal into its accept hook.
+This is a companion crate. `axum-server` intentionally leaves ACME out of its
+core. This crate plugs certificate acquisition and renewal into its accept hook.
 
 ## Usage
 
